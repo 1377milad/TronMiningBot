@@ -13,7 +13,7 @@ from telegram.ext import (
 )
 
 # تنظیمات اولیه
-TOKEN = "7799468905:AAGKkcW68RZNvYnRf8bWJl_V3sfVz1IeSLY"
+TOKEN "7222239679:AAG1lcX5l9y-k_xfFKtMct0nkTHko3nUh44"
 ADMIN_ID = 327855654
 USER_DATA_FILE = "user_data.json"
 
